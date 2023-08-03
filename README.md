@@ -70,3 +70,6 @@
  &nbsp; &nbsp;
 <a href="https://www.instagram.com/olf_sng21/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px"></a> 
 &nbsp; &nbsp;
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eukkki210&show_icons=true&theme=onedark)
