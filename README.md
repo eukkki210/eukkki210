@@ -21,7 +21,7 @@
   **Python**:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&lgo=flask)
+  ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white)
@@ -37,8 +37,9 @@
 
   **JavaScript**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  ![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
+  ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json)
 
   **SQL:**
@@ -54,6 +55,7 @@
 ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
+![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white)
 
 **Version Control:**
@@ -61,7 +63,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   
 **Cloud:**
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=AWS)
+![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 ### 📫 Contact
