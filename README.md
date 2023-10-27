@@ -37,9 +37,12 @@
 
   **JavaScript**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
   ![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
   ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
   ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
+  ![express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+  ![nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json)
 
   **SQL:**
@@ -61,6 +64,7 @@
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   
 **Cloud:**
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
