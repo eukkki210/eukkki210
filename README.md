@@ -5,7 +5,7 @@
 ---
 
 ## 🤔 Who am I ❓
-🐥 Junior Python/Java Backend Developer 🧑‍💻
+🐥 Junior Backend Developer 🧑‍💻
 
 ### 📖 Education 🏫
 
