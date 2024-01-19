@@ -33,7 +33,6 @@
   ![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring)
   ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot)
   ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)
-  ![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml)
 
   **JavaScript**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -43,7 +42,6 @@
   ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
   ![express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
   ![nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
-  ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json)
 
   **SQL:**
   ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql)
@@ -54,16 +52,14 @@
 **Software Development:**
 ![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-green?style=flat&logo=PyCharm&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white)
-![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   
 **Cloud:**
