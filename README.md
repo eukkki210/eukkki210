@@ -59,8 +59,8 @@
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+<img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   
 **Cloud:**
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
