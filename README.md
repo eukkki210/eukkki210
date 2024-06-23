@@ -20,13 +20,10 @@
 
   **Python**:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
   ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)
 
   **Java**: 
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
