@@ -52,21 +52,28 @@
 
 ### Tools
 
-**Software Development:**
+**Dev Tools / IDEs**
 ![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-green?style=flat&logo=PyCharm&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
-![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**OS:**
+![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-  
-**Cloud:**
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
 
 ---
 ### 📫 Contact
