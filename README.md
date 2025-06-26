@@ -46,18 +46,18 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
   **SQL:**
-  ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logo)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools
 
 **Dev Tools / IDEs**
-![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-green?style=flat&logo=PyCharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=flat&logo=PyCharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndoridStudio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -66,7 +66,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 **OS:**
-![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 **Cloud & DevOps:**
