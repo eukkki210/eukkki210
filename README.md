@@ -29,20 +29,26 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring)
   ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot)
+  ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)
 
   **JavaScript**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
-  ![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
-  ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+  ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
   ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
   ![express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
   ![nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
+  **Dart**: 
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
   **SQL:**
   ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logo)
 
 ### Tools
 
